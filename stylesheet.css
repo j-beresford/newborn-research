@@ -1,11 +1,13 @@
 .title{
     color: blue;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 6vw;
 }
 
 body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
 
 .menu-link{
     text-decoration: none;
@@ -15,7 +17,7 @@ body{
 .dropbtn {
     background-color: blue;
     color: white;
-    font-size: large;
+    font-size: 5vw;
     border: none;
     padding: 5px;
 }
@@ -24,6 +26,7 @@ body{
     position: relative;
     display: inline-block;
     background-color: blue;
+    width: 100%;
 }
 
 .dropdown-content {
