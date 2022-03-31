@@ -3,29 +3,22 @@
 <link rel="stylesheet" href="stylesheet.css">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<header class="title"><h1>Nightsleep</h1></header>
-
 <body>
 
-    <div class="dropdown">
-        <button class="dropbtn">
-            <a class="menu-link" href="index.html">Home</a>
-        </button>
-        <button onclick="dropper()" class="dropbtn">
-            Sleep
-        </button>
-        <div id="myDropdown" class="dropdown-content">
-            <a href="daysleep.html">Daysleep</a>
-            <a href="nightsleep.html">Nightsleep</a>
-            <a href="timetable.html">Timetable</a>
-        </div>
-        <button class="dropbtn">
-            <a class="menu-link" href="feeding.html">Feeding</a>
-        </button>
-        <button class="dropbtn">
-            <a class="menu-link" href="index.html">What to buy</a>
-        </button>
-    </div>
+
+    <ul class="top-menu">
+        <li><a href="index.html">Home</a></li>
+        <li class="dropdown">
+            <a class="dropdown-btn">Sleeping</a>
+            <div class="dropdown-content">
+                <a href="daysleep.html">Daysleep</a>
+                <a href="nightsleep.html">Nightsleep</a>
+                <a href="timetable.html">Timetable</a>
+            </div>
+        </li>
+        <li><a href="feeding.html">Feeding</a></li>
+    </ul>
+    
     
     <div class="maintext">
         <h2> 2. Sleeping through the night</h2>

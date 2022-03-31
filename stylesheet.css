@@ -1,61 +1,70 @@
-.title{
-    color: blue;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: min(max(20px, 6vw), 30px);;
-}
-
 body{
+    margin: 0%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 h1{
-    font-size: min(max(18px, 6vw), 30px);;
+    font-size: min(max(18px, 6vw), 30px);
 }
 h2{
-    font-size: min(max(15px, 5vw), 25px);;
+    font-size: min(max(15px, 5vw), 25px);
 }
 h3{
-    font-size: min(max(14px, 4vw), 20px);;
+    font-size: min(max(14px, 4vw), 20px);
 }
 p{
-    font-size: min(max(13px, 4vw), 15px);;
+    font-size: min(max(13px, 4vw), 15px);
 }
 
-.menu-link{
-    text-decoration: none;
-    color: white;
+.top-menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+    overflow: hidden;
 }
 
-.dropbtn {
-    background-color: blue;
-    color: white;
-    font-size: min(max(20px, 4vw), 30px);;
-    border: none;
-    padding: 5px;
+li {
+    float: left;
 }
 
-.dropdown {
-    position: relative;
+li a, .dropdown-btn{
     display: inline-block;
-    background-color: blue;
-    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    font-size: min(max(15px, 5vw), 25px);
+    color: white;
+    padding: 15px;
+}
+
+li.dropdown{
+    display: inline-block;
+}
+
+li:hover{
+    background-color: rebeccapurple;
 }
 
 .dropdown-content {
-        display: none;
-        position: absolute;
-        background-color: #f1f1f1;
-        min-width: 160px;
-        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-        z-index: 1;
+    display: none;
+    position: absolute;
+    font-size: min(max(14px, 4vw), 20px);
+    background-color: rgb(69, 20, 119);
 }
 
-.dropdown-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
+.dropdown-content a{
     display: block;
-  }
+}
 
-.show {display:block;}
 
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+
+.dropdown-content a:hover{
+    background-color: #333;
+}
+
+.maintext{
+    margin: 5px;
+}
