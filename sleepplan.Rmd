@@ -1,0 +1,179 @@
+---
+title: "Sleep Plan"
+author: "Louis 'excellent sleeper' Beresford"
+date: "16/01/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 1. Nap time / falling asleep
+
+#### Younger than 6-weeks
+
++ Start soothing as soon as baby becomes drowsy
++ When soothed but not asleep, put him down and leave the room
+    + If he cries hard once down, immediately pick up and re-start soothing. Try again another time
++ Repeat once a day
+
+Baby should be napping every 1-2 hours. Consider first nap one hour after waking up. If possible, first nap is the best time to try this (Justin to do).
+
+If he falls asleep while soothing, fine. Don't wake him up again - in fact never wake a sleep baby. In thE first week, this might only work 10% of the time, doubling to 20% then 40% after weeks 2 and 3\. Except to become frustrated. 
+
+<details>
+<summary>What are drowsy signs?</summary>
+1.  Becoming still/decreased activity
+2.  Becomes quieter/less vocal
+3.  Less interested in toys or people
+4.  Sucking is weaker or slower
+5.  Yawning
+
+Note these are less apparent in a busy place or when TV is one. Changes in the eyes are too late, i.e. half closed/glazed over/looking through you means already tired.
+</details>
+
+<details>
+<summary>What is soothing?</summary>
+1.  Rocking rhythmically
+2.  Sucking (boob, bottle, dummy, wrist, fingers)
+3.  Gentle pressure (swaddle, massage, sling)
+4.  Sounds (lullabies, nature sounds, music, singing, quiet talking)
+</details>
+
+
+#### From 6 weeks
+
++ Early bed time
+    + Begin bedtime routines
+    + Be consistent
+    + Leave the room after baby put down to sleep
+    
+<details>
+<summary>Ideas for bedtime routine</summary>
+Mum and Dad are allowed different routines but consistency matters. 
+
+After last nap (waking up after 5.30pm), bath, then book, then feed, then cuddle and down to bed. Lights off, Music on.
+
+Other ideas for bed time routines
+
+1.  Reduce stimulation: less playing, lower lights, less handling
+2.  Bedroom should be quiet, dark and warm
+3.  Bath time
+4.  Massage after bath with smooth gentle motions
+5.  Dress for sleep
+6.  Swaddle
+7.  Lullabye, quiet signing, listening to music, huming words/phrases
+8.  Rock. Cuddle. 
+9.  Feed.
+10.  Read books, quiet plays
+11.  After soothing/bedtime routine, put baby down and leave room.
+</details>
+
+
+#### 3-4 Months
+
++ Establish nap schedule
+    + 3 naps a day
++ Modify or eliminate late afternoon naps to establish an early bedtime
++ After awake for no more than 2 hours, put him somewhere quiet to nap. Naps either short or long, with no pattern. 
++ At some point in this period, consistent mid morning nap develops, between 9 and 10am. This is the main one for practicing self soothing, drowsy but awake etc. 
+
+
+
+
+## 2. Sleeping through the night
+
+#### Step 1
+Just nap etc. as above to teach self soothing
+
+#### Step 2a (first 2-3 months)
+Brief delay (minute or less) in responding to *non-distress* sounds
+
++ Non-distress sounds are coughing, wheezing, moaning, whimpering
++ For grey-area whimpering, can do 'wait-and-watch'
+
+#### Step 2b (after 2-3 months)
++  Continue to immediately respond to distress sounds
++  *Always* attempt a brief delay to non-distress sounds
+
+#### Step 3
++  Do not always feed your baby whenever he makes a sound
+    + First try other soothing methods, when you just suspect he's not hungry
+    
+### Sidenotes
+
+<details>
+<summary>What are fatigue signs?</summary>
++ Mild fussiness, irritability, cranky, moodiness, pulling ears, drooping head, rubbing eyes. 
++ Easily upset, clinging, peevish, easily frustrated, short fused, rough around edges
++ Whining, crying, slightly wired, less cooperative, less able to entertain himself
+</details>
+
+## Healthy sleep habits
+##### First month
+
+Main goal in month one is to develop self-soothing skills. Keep intervals of wakefulness brief to avoid getting overtired. By 6 weeks, most babies will be more settled at night, sleep a bit longer, and begin to show drowsy signs earlier in the evening.
+
+*Week 1*: No established rhythms. Begin to teach self-soothing, and feed only when your baby is hungry at night. Can't use clock time. Full-term babies should sleep a lot (15-18 hours a day, in short stretches of 2-4 hours). Sleep when your baby sleeps. Turn off your phone when nursing and napping. 
+
+Soothing is harder in the evening and at night, but should settle more at 6 weeks.
+
+First nap is always going down drowsy but awake, done by Justin. If it doesn't work, pick him up immediately. Try again later on. Except this to only work 10% of the time, doubling each week.  
+
+Tips:
++ Take naps when your baby sleeps
++ Turn off all phones in the house when your baby is sleeping
++ Go out without your baby for breaks, e.g walk, coffee
++ Plan a few hours of private time to take care of yourself
++ Soothe your baby however easiest, don't worry about bad habits or spoiling him
+
+*Weeks 2-4*: No established rhythms. Don't sleep for long periods at night - longest sleep period could be 3-4 hours and occur at day or night. Changing light or noise doesn't seem to have much of an impact at this stage. *Try not to respond to every whimper.* After a few weeks, if breastfeeding, consider a once-a-day relief bottle.  
+
+##### Second month (12th May onwards)
+
+*Weeks 5-6*: Nightsleep: More evening fussiness maybe associated with less night sleep. After 6 weeks (24th May), night sleep rhythms emerge. Daysleep: naps still brief and irregular, may be many cat naps. Bedtimes: irregular and may occur late, between 9 and 11pm. Main thing is all the self soothing, many hands, drowsy but awake. *Start establishing bed time routines.* 
+
+*6-week peak (24th May)*: all babys are most fussy, cry most, most wakeful. Main goal is to prevent second wind. Move bedtime earlier after 6 weeks. 
+
+*Weeks 7-8 (31st May to 7th June)*: Night sleep becoming organised. Daysleep: naps brief and irregular, may be many cat naps. Bedtime: starting to become earlier. Single longest period of sleep is 4-6 hours and will occur in the evening, often before midnight. Feed your child only when necessary and try to avoid unnecessary feedings (i.e. don't feed whimpers). During night, try to delay response to non-distress vocalisations, or send dad in (maybe with bottle). 
+
+##### Third month (12th June onwards)
+
+*Weeks 8-12* (12th June to 12th July): Continuation of weeks 7-8. Becoming less portable and can't just sleep anywhere. Become sensitive to difference between brief interrupted sleep and long uninterrupted naps. By now, not using swings, cars or strollers to get him to sleep. *Mid morning nap develops between 9 and 10am.* 
+
+##### Fourth month (12th July onwards)
+
+*Extinction starts, following Emily Oster timings*:
+
++ Bedtime/start of night: go to bed at 6.30. Routine, PJs, book, bath, guitar. Feed, then down to bed. Not return at all before 10.30 (four hour gap, our bed time, maybe dream feed??)
++ Feed Louis first time he cries after 4 hours. After first feeding, don't respond again until 2 hours after end of last feeding.
++ The morning: wake up between half 6 and half 7. Wake him up at half 7 if he's not already up. Before half 6, if he's been fed, ignore. 
++ From 10 weeks, he is eating 2 or 3 times a night. 
+
+##### Fifth month (12th Aug onwards)
+*12th August*:  Goes to own room and two feeds a night. May wake to feed 4-6 hours after last feeding, but shouldn't be fed more than twice a night. If feed at middnight, don't feed at 2am. So proably a feeding at 11 and 4am ish. For these two feeds, respond promptly (so you both remain sleepy) but no talking, lights, cuddling etc.
+
+Consider dream feed before bed, to avoid a second night feed. 
+
+## How many nighttime feeds are needed
+
+*Newborn*: 2 to 4 hours is the longest he'll sleep
+
+*2-3 months*: can sleep for five- or six-hour stretches. That said, most 3-month-olds still need a feeding or two during the night, especially if they're nursing.
+
+*4 months*: can sleep for a solid seven or eight hours, though it may happen gradually. That's because most 4-month-old babies have reached that magic weight of 5 to 7kg, which means they don't metabolically need a nighttime feeding. But they may still demand one!
+
+*5-6 months*: By now, babies are able to sleep through the night, so if still waking up more frequently to eat, you can be pretty sure he's not really hungry. Start to cut out those extra nighttime feedings.
+
+## When are naps formalised
+
+Day sleep organisation appears around 3/4 months. 
+
++ Mid morning develops first. Typically 9am. 
++ Then regularly occurring midday nap a few or several weeks later (12 or 2)
++ Often a late afternoon nap happens but its more irregular and briefer and develops last. 
+
+At nap time, baby soothes himself to sleep unassisted. After soothing for several minutes (relatively brief), put him down to sleep drowsy but awake.
+
+
