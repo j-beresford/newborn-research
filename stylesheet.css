@@ -30,7 +30,6 @@ p{
     padding: 0;
     background-color: #333;
     overflow: hidden;
-    -webkit-tap-highlight-color: transparent;
 }
 
 #lim {
@@ -44,6 +43,7 @@ li a, .dropdown-btn{
     font-size: min(max(15px, 5vw), 25px);
     color: white;
     padding: 15px;
+    -webkit-tap-highlight-color: transparent;
 }
 
 #lim #actBtn{
