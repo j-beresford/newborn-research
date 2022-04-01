@@ -16,6 +16,14 @@ p{
     font-size: min(max(13px, 4vw), 15px);
 }
 
+.selPage{
+    background-color: rgb(69, 20, 119);
+}
+
+#selPage{
+    background-color: rgb(69, 20, 119);
+}
+
 .top-menu{
     list-style: none;
     margin: 0;
@@ -49,7 +57,8 @@ li:hover{
     display: none;
     position: absolute;
     font-size: min(max(14px, 4vw), 20px);
-    background-color: rgb(69, 20, 119);
+    background-color: rebeccapurple;
+    -webkit-tap-highlight-color: transparent;
 }
 
 .dropdown-content a{
@@ -62,9 +71,27 @@ li:hover{
 }
 
 .dropdown-content a:hover{
-    background-color: #333;
+    background-color: rgb(69, 20, 119);
 }
 
 .maintext{
     margin: 5px;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rebeccapurple;
+    padding: 15px;
+}
+
+.maintext a{
+    color: #333;
+}
+
+.footer, a{
+    color: white;
+    text-align: center;
 }
