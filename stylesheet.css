@@ -8,6 +8,7 @@ body{
 
 h1{
     font-size: min(max(18px, 6vw), 30px);
+    color: rebeccapurple;
 }
 h2{
     font-size: min(max(15px, 5vw), 25px);
@@ -17,6 +18,11 @@ h3{
 }
 p{
     font-size: min(max(13px, 4vw), 15px);
+}
+
+.pic-baby{
+    width: 100%;
+    max-width: 500px;
 }
 
 .selPage{
@@ -53,7 +59,7 @@ li a, .dropdown-btn{
 }
 
 #lim #actBtn{
-    background-color: rebeccapurple;
+    background-color: rgb(69, 20, 119);
 }
 
 #lim.dropdown{
