@@ -33,7 +33,7 @@ p{
     -webkit-tap-highlight-color: transparent;
 }
 
-li {
+#lim {
     float: left;
 }
 
@@ -46,11 +46,11 @@ li a, .dropdown-btn{
     padding: 15px;
 }
 
-li.dropdown{
+#lim.dropdown{
     display: inline-block;
 }
 
-li:hover{
+#lim:hover{
     background-color: rebeccapurple;
 }
 
