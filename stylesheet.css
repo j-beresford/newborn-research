@@ -46,8 +46,17 @@ li a, .dropdown-btn{
     padding: 15px;
 }
 
+#lim #actBtn{
+    text-decoration: underline;
+    text-decoration-color: rebeccapurple;
+}
+
 #lim.dropdown{
     display: inline-block;
+}
+
+#lim :active{
+    background-color: rebeccapurple;
 }
 
 #lim:hover{
