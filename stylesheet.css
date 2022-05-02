@@ -52,7 +52,7 @@ li a, .dropdown-btn{
     display: inline-block;
     text-align: center;
     text-decoration: none;
-    font-size: min(max(15px, 5vw), 25px);
+    font-size: min(max(15px, 5vw), 13px);
     color: white;
     padding: 15px;
     -webkit-tap-highlight-color: transparent;
